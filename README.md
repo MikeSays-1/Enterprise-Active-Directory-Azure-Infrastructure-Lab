@@ -1,5 +1,7 @@
 <p align="center"><img src="images/Configure Azure and AD flow chart.gif" width="200">
-<img src="images/Active Directory Configuration.gif" width="400"></p>
+<img src="images/Active Directory Configuration.gif" width="200">
+<img src="images/DC and AD diagram.gif" width="200">  
+</p>
 
 # Enterprise Active Directory Azure Infrastructure Lab
 This repository serves as an index for a multi-stage lab designed to simulate a business-scale Active Directory environment hosted in Microsoft Azure.
