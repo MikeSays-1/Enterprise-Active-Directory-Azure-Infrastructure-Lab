@@ -1,6 +1,6 @@
-<p align="center"><img src="images/Configure Azure and AD flow chart.gif" width="33%">
-<img src="images/Active Directory Configuration.gif" width="33%">
-<img src="images/DC and AD diagram.gif" width="33%"">  
+<p align="center"><img src="images/Configure Azure and AD flow chart.gif" width="30%">
+<img src="images/Active Directory Configuration.gif" width="30%">
+<img src="images/DC and AD diagram.gif" width="40%"">  
 </p>
 
 # Enterprise Active Directory Azure Infrastructure Lab
