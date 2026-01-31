@@ -1,3 +1,4 @@
+<img src="images/microsoft-azure-logo.png" width="600">
 <img src="images/active-directory-seeklogo.png">
 
 # Enterprise Active Directory Azure Infrastructure Lab
