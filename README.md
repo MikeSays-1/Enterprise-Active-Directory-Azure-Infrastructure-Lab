@@ -1,4 +1,4 @@
-<p align="left"><img src="images/microsoft-azure-logo.png" width="400">
+<p align="left"><img src="images/microsoft-azure-logo.png" width="200">
 <img src="images/active-directory-seeklogo.png" width="400"></p>
 
 # Enterprise Active Directory Azure Infrastructure Lab
