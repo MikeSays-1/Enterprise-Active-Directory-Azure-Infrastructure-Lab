@@ -1,5 +1,5 @@
-<img src="images/microsoft-azure-logo.png" width="400">
-<img src="images/active-directory-seeklogo.png" width="400">
+<p align="left"><img src="images/microsoft-azure-logo.png" width="400">
+<img src="images/active-directory-seeklogo.png" width="400"></p>
 
 # Enterprise Active Directory Azure Infrastructure Lab
 This repository serves as an index for a multi-stage lab designed to simulate a business-scale Active Directory environment hosted in Microsoft Azure.
